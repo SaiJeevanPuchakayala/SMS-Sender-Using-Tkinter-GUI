@@ -11,3 +11,5 @@
 I have used fast2sms as my API for sending SMS and there are many other API's for sending SMS.
 
 You can send SMS to multiple mobile numbers seperated by comma like: "8888888888,9999999999,6666666666"
+
+![GUI Window](GUI.png)
